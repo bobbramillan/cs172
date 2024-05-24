@@ -1,3 +1,5 @@
+#do "pip install nba_api" first
+
 from nba_api.stats.static import teams, players
 from nba_api.stats.endpoints import CommonTeamRoster
 
